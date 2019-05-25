@@ -1,0 +1,5 @@
+# ClassCollectionView
+用CollectionView实现的横向滑动选择列表
+
+文档说明：用CollectionView实现的横向滑动选择列表
+
